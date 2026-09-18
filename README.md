@@ -5,7 +5,6 @@ Built in C# (.NET 8) with a local SQLite database.
 
 ## State of this version (Milestone 2 checkpoint)
 
-This copy matches the Milestone 2 progress report exactly:
 
 - Full add / edit / delete / view for Customers, Technicians, Devices and Repair Jobs
 - Technician assignment and repair status workflow (Received, In Progress, Completed, Collected)
