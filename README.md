@@ -1,4 +1,4 @@
-# Technician & Repair Service Management System (Final Version)
+# Technician & Repair Service Management System
 
 ITS203 project — a Windows Forms desktop application for a small electronics repair shop.
 Built in C# (.NET 8) with a local SQLite database.
